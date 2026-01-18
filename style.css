@@ -16,6 +16,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+   background-image: url("https://i.postimg.cc/RZKrCSQJ/Whats-App-Image-2026-01-18-at-17-58-49.jpg");
+        
+        background-position: bottom right;
+        background-size: 120px;
 }
 @media (max-height: 500px) {
   body {
